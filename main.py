@@ -9,7 +9,7 @@ from threading import Timer
 import StatAnalise
 import re
 
-TOKEN = '6283742934:AAF7k_fr7fzXxT-h2DJstqux56ZQ_KJeo8o'
+TOKEN = ''
 
 
 def main() -> None:
